@@ -1,7 +1,7 @@
 # Foobar_Google_Challenge
 Languages: Python and Java
 
-<h2>LEVEL1</h2>
+<h2>LEVEL 1</h2>
 
 Success! You've managed to infiltrate Commander Lambda's evil organization, and finally earned yourself an entry-level position as a Minion on her space station. From here, you just might be able to subvert her plans to use the LAMBCHOP doomsday device to destroy Bunny Planet. Problem is, Minions are the lowest of the low in the Lambda hierarchy. Better buck up and get working, or you'll never make it to the top...
 
@@ -49,4 +49,4 @@ Output:
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
 
-<h4>MY SOLUTION</h4>
+<h2>LEVEL 2</h2>
